@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`gilded rose gilded rose "name: Aged Brie sellin: -1 quality: 10" 1`] = `
+Array [
+  Item {
+    "name": "Aged Brie",
+    "quality": 12,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Aged Brie sellin: -1 quality: 51" 1`] = `
+Array [
+  Item {
+    "name": "Aged Brie",
+    "quality": 51,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Aged Brie sellin: 1 quality: 1" 1`] = `
+Array [
+  Item {
+    "name": "Aged Brie",
+    "quality": 2,
+    "sellIn": 0,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Aged Brie sellin: 1 quality: 51" 1`] = `
+Array [
+  Item {
+    "name": "Aged Brie",
+    "quality": 51,
+    "sellIn": 0,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: -1 quality: 10" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 0,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 1 quality: 1" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 4,
+    "sellIn": 0,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 1 quality: 48" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 0,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 10 quality: 49" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 9,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 10 quality: 50" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 9,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 11 quality: 48" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 49,
+    "sellIn": 10,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 12 quality: 1" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 2,
+    "sellIn": 11,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 12 quality: 10" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 11,
+    "sellIn": 11,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 12 quality: 48" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 49,
+    "sellIn": 11,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 12 quality: 49" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 11,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Backstage passes to a TAFKAL80ETC concert sellin: 12 quality: 50" 1`] = `
+Array [
+  Item {
+    "name": "Backstage passes to a TAFKAL80ETC concert",
+    "quality": 50,
+    "sellIn": 11,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Chris sellin: -1 quality: -1" 1`] = `
+Array [
+  Item {
+    "name": "Chris",
+    "quality": -1,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Chris sellin: -1 quality: 48" 1`] = `
+Array [
+  Item {
+    "name": "Chris",
+    "quality": 46,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Chris sellin: 1 quality: -1" 1`] = `
+Array [
+  Item {
+    "name": "Chris",
+    "quality": -1,
+    "sellIn": 0,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Christ sellin: -1 quality: 1" 1`] = `
+Array [
+  Item {
+    "name": "Christ",
+    "quality": 0,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Christopher sellin: -1 quality: 10" 1`] = `
+Array [
+  Item {
+    "name": "Christopher",
+    "quality": 8,
+    "sellIn": -2,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Sulfuras, Hand of Ragnaros sellin: -1 quality: 48" 1`] = `
+Array [
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 48,
+    "sellIn": -1,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: Sulfuras, Hand of Ragnaros sellin: 1 quality: 1" 1`] = `
+Array [
+  Item {
+    "name": "Sulfuras, Hand of Ragnaros",
+    "quality": 1,
+    "sellIn": 1,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: ricky sellin: 1 quality: 1" 1`] = `
+Array [
+  Item {
+    "name": "ricky",
+    "quality": 0,
+    "sellIn": 0,
+  },
+]
+`;
+
+exports[`gilded rose gilded rose "name: ricky sellin: 1 quality: 51" 1`] = `
+Array [
+  Item {
+    "name": "ricky",
+    "quality": 50,
+    "sellIn": 0,
+  },
+]
+`;
